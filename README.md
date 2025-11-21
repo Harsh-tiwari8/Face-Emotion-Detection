@@ -1,5 +1,4 @@
 Face Emotion Detector
-🎯 Try it now: Live Demo
 
 This is a fun and interactive web app that can detect human emotions from a face in a photo — just upload an image, and it tells you how the person is feeling!
 
@@ -24,8 +23,4 @@ Accuracy	~86%
 Precision	87%
 Recall	85%
 Overall Score	⭐⭐⭐⭐☆
-How to Use This App
-Upload a clear face photo.
-The app detects the emotion.
-It shows the result instantly on screen!
-You can run it locally by using:
+
